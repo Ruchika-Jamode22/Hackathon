@@ -1,6 +1,6 @@
 # Hackathon
 ##Team Members
-Vasundhara Bhegade(Leader):[https://github.com/vasundhara-bhegade]
-Ruchika Jamode:[https://github.com/Ruchika-Jamode22]
-Prerana Mankape:[https://github.com/Preranam123]
-Naman Oswal:
+1.Vasundhara Bhegade(Leader):[https://github.com/vasundhara-bhegade]
+2.Ruchika Jamode:[https://github.com/Ruchika-Jamode22]
+3.Prerana Mankape:[https://github.com/Preranam123]
+4.Naman Oswal:
